@@ -1,0 +1,15 @@
+.logo{
+    width: 16%
+}
+
+.container{
+    margin-top: 10px;
+}
+
+header, footer, main, aside{
+    padding: 5px;
+}
+
+.imagem-titulo{
+    width: 80%;
+}
